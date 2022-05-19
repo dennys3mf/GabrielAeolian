@@ -9,7 +9,7 @@
 
 
 
-<h1><marquee>TECSUP</marquee></h1>
+<h1><a href="https://www.tecsup.edu.pe/"><marquee>TECSUP</marquee></a></h1>
 
 
 
